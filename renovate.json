@@ -1,3 +1,4 @@
 {
-	"rollbackPrs": true
+	"rollbackPrs": true,
+	"dependencyDashboard": true
 }
